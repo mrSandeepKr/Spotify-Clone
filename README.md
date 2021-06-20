@@ -25,7 +25,7 @@ and the API calls are all being made through  `/SpoiftyClone/Managers/ApiCaller.
 <table>
 <tr>
   <td><img src="https://github.com/mrSandeepKr/Spotify-Clone/blob/master/ReadMeImages/PlaylistView.png"  width="200" height="400" /></td>
-  <td><img src="https://github.com/mrSandeepKr/Spotify-Clone/blob/master/ReadMeImages/AddPlaylist.png"  width="200" height="400" /></td>
+  <td><img src="https://github.com/mrSandeepKr/Spotify-Clone/blob/master/ReadMeImages/SearchView.png"  width="200" height="400" /></td>
   <td><img src="https://github.com/mrSandeepKr/Spotify-Clone/blob/master/ReadMeImages/AddPlaylist.png"  width="200" height="400" /></td>
   <td><img src="https://github.com/mrSandeepKr/Spotify-Clone/blob/master/ReadMeImages/playerView.png"  width="200" height="400" /></td>
 </tr>
